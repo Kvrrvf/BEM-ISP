@@ -1,0 +1,13 @@
+fastqc -o ~/ISP/samples/fastqc \
+    VA1565_2021/1565_21_S75_R1_001.fastq.gz  VA1565_2021/1565_21_S75_R2_001.fastq.gz\
+    VA1788_2021/S78_R1.fastq.gz VA1788_2021/S78_R2.fastq.gz\
+    VA2067_2020/2067_20_S67_R1_001.fastq.gz VA2067_2020/2067_20_S67_R2_001.fastq.gz\
+    VA2464_2020/VA2464_20_R1_trim.fastq.gz VA2464_2020/VA2464_20_R2_trim.fastq.gz\
+    VA2588_2020/S69_R1.fastq.gz VA2588_2020/S69_R2.fastq.gz\
+    VA418_2022/S72_R1.fastq.gz VA418_2022/S72_R2.fastq.gz\
+    VA585_2022/S85_R1.fastq.gz VA585_2022/S85_R2.fastq.gz\
+    VA692_2022/S80_R1.fastq.gz VA692_2022/S80_R2.fastq.gz\
+    VA1101_2021/1101_21_S87_R1_001.fastq.gz VA1101_2021/1101_21_S87_R2_001.fastq.gz\
+    VA1184_2021/1184_21_S88_R1_001.fastq.gz VA1184_2021/1184_21_S88_R2_001.fastq.gz\
+    VA61_2022/61_22_S82_R1_001.fastq.gz VA61_2022/61_22_S82_R2_001.fastq.gz\
+    VA1046_2020/S63_R1.fastq.gz VA1046_2020/S63_R2.fastq.gz\
