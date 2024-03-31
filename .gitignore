@@ -1,0 +1,8 @@
+# ISP samples folder
+samples
+
+# No code files
+
+*.fasta
+*.gfa
+*.gzip 
