@@ -1,4 +1,5 @@
 # ISP samples folder
+
 samples
 
 # No code files
@@ -6,3 +7,7 @@ samples
 *.fasta
 *.gfa
 *.gzip 
+
+# Symbolic links
+
+group_storage
