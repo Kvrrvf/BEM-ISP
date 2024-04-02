@@ -1,0 +1,210 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.	Sample
+aph(6)-Id	100.0	837/837	100.0	1..838	NA	NA..NA	Streptomycin	M28829	VA1046_2020
+ant(3'')-Ia	98.15	989/972	101.03	1..990	NA	NA..NA	Streptomycin	X02340	VA1046_2020
+aac(6')-Ib-cr	100.0	600/600	100.0	1..601	NA	NA..NA	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	DQ303918	VA1046_2020
+aph(3'')-Ib	99.0	804/804	99.88	1..805	NA	NA..NA	Streptomycin	AF321551	VA1046_2020
+aac(3)-IIa	100.0	861/861	100.0	1..862	NA	NA..NA	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin, Gentamicin, Tobramycin	CP023555	VA1046_2020
+blaOXA-1	100.0	831/831	100.0	1..832	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510	VA1046_2020
+blaOXA-10	100.0	801/801	100.0	1..802	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Piperacillin, Piperacillin+Tazobactam	J03427	VA1046_2020
+blaSHV-2a	91.52	861/861	92.57	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	X98102	VA1046_2020
+blaSHV-27	85.71	815/861	86.53	47..862	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AF293345	VA1046_2020
+blaSHV-110	99.54	861/861	100.0	1..862	NA	NA..NA	Unknown Beta-lactam	HQ877615	VA1046_2020
+blaTEM-1B	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016	VA1046_2020
+blaNDM-7	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	JX262694	VA1046_2020
+blaCTX-M-2	100.0	876/876	100.0	1..877	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AB176535	VA1046_2020
+fosA	98.81	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACWO01000079	VA1046_2020
+fosA	82.38	420/420	85.95	1..421	NA	NA..NA	Fosfomycin	ACZD01000244	VA1046_2020
+cmlA1	99.68	1260/1260	100.0	1..1261	NA	NA..NA	Chloramphenicol	M64556	VA1046_2020
+qnrB1	100.0	645/645	100.0	1..646	NA	NA..NA	Ciprofloxacin	DQ351241	VA1046_2020
+qnrB19	100.0	645/645	100.0	1..646	NA	NA..NA	Ciprofloxacin	EU432277	VA1046_2020
+OqxA	99.57	1176/1176	100.0	1..1177	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1046_2020
+OqxB	98.7	3153/3153	100.0	1..3154	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1046_2020
+ARR-3	99.82	543/543	100.0	1..544	NA	NA..NA	Rifampicin	FM207631	VA1046_2020
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA1046_2020
+sul1	99.88	867/867	100.0	1..868	NA	NA..NA	Sulfamethoxazole	EU780013	VA1046_2020
+sul2	100.0	816/816	100.0	1..817	NA	NA..NA	Sulfamethoxazole	AY034138	VA1046_2020
+tet(A)	97.25	1240/1275	97.25	1..1241	NA	NA..NA	Doxycycline, Tetracycline	AF534183	VA1046_2020
+dfrA14	83.02	483/483	83.44	1..484	NA	NA..NA	Trimethoprim	DQ388123	VA1046_2020
+dfrA14	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	KF921535	VA1046_2020
+aac(6')-Il	100.0	459/459	100.0	1..460	NA	NA..NA	Amikacin, Tobramycin	U13880	VA1184_2021
+aadA2	99.02	820/819	100.12	1..821	NA	NA..NA	Spectinomycin, Streptomycin	NC_010870	VA1184_2021
+ant(2'')-Ia	100.0	534/534	100.0	1..535	NA	NA..NA	Gentamicin, Tobramycin	X04555	VA1184_2021
+aadA1	92.42	743/792	93.56	50..793	NA	NA..NA	Spectinomycin, Streptomycin	JX185132	VA1184_2021
+blaACT-5	98.87	1146/1146	99.74	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	FJ237369	VA1184_2021
+blaACT-14	99.21	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	JX440354	VA1184_2021
+blaTEM-1B	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016	VA1184_2021
+blaVIM-1	100.0	801/801	100.0	1..802	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	Y18050	VA1184_2021
+fosA	97.18	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	M85195	VA1184_2021
+fosA	96.95	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	AEXB01000013	VA1184_2021
+qnrA1	99.85	657/657	100.0	1..658	NA	NA..NA	Ciprofloxacin	AY070235	VA1184_2021
+OqxB	88.01	3146/3153	99.02	1..3147	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1184_2021
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA1184_2021
+dfrA1	98.73	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	EU089668	VA1184_2021
+dfrA1	83.33	396/474	83.54	79..475	NA	NA..NA	Trimethoprim	AJ238350	VA1184_2021
+aph(6)-Id	100.0	831/831	100.0	1..832	NA	NA..NA	Streptomycin	CP000971	VA1788_2021
+aac(3)-IId	99.88	861/861	100.0	1..862	NA	NA..NA	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin	EU022314	VA1788_2021
+aac(6')-Ib	100.0	606/606	100.0	1..607	NA	NA..NA	Amikacin, Tobramycin, Amikacin, Tobramycin, Kanamycin	M21682	VA1788_2021
+aac(6')-Ib3	100.0	555/555	100.0	1..556	NA	NA..NA	Amikacin, Tobramycin	X60321	VA1788_2021
+aac(6')-Ib-cr	100.0	600/600	100.0	1..601	NA	NA..NA	Ciprofloxacin, Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin	DQ303918	VA1788_2021
+aph(3'')-Ib	99.88	804/804	100.0	1..805	NA	NA..NA	Streptomycin	AF321551	VA1788_2021
+blaKPC-3	100.0	882/882	100.0	1..883	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	HM769262	VA1788_2021
+blaOXA-1	100.0	831/831	100.0	1..832	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510	VA1788_2021
+blaSHV-158	99.88	861/861	100.0	1..862	NA	NA..NA	Unknown Beta-lactam	JX121125	VA1788_2021
+blaTEM-1B	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016	VA1788_2021
+blaCTX-M-15	100.0	876/876	100.0	1..877	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AY044436	VA1788_2021
+fosA5	97.86	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	EU195449	VA1788_2021
+fosA	98.57	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACWO01000079	VA1788_2021
+qnrB1	100.0	645/645	100.0	1..646	NA	NA..NA	Ciprofloxacin	DQ351241	VA1788_2021
+OqxA	100.0	1176/1176	100.0	1..1177	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1788_2021
+OqxB	100.0	3153/3153	100.0	1..3154	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1788_2021
+sul2	100.0	816/816	100.0	1..817	NA	NA..NA	Sulfamethoxazole	AY034138	VA1788_2021
+tet(D)	100.0	1185/1185	100.0	1..1186	NA	NA..NA	Doxycycline, Tetracycline	AF467077	VA1788_2021
+dfrA14	99.59	483/483	100.0	1..484	NA	NA..NA	Trimethoprim	DQ388123	VA1788_2021
+dfrA14	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	KF921535	VA1788_2021
+aac(6')-Ib-cr	100.0	600/600	100.0	1..601	NA	NA..NA	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	DQ303918	VA2464_2020
+aac(3)-IIa	100.0	861/861	100.0	1..862	NA	NA..NA	Gentamicin, Tobramycin, Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin	CP023555	VA2464_2020
+blaOXA-1	100.0	831/831	100.0	1..832	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510	VA2464_2020
+blaSHV-148	99.42	856/861	99.42	1..857	NA	NA..NA	Unknown Beta-lactam	JX121115	VA2464_2020
+blaNDM-7	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	JX262694	VA2464_2020
+blaCTX-M-15	100.0	876/876	100.0	1..877	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AY044436	VA2464_2020
+blaSHV-1	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AF148850	VA2464_2020
+fosA	98.1	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACWO01000079	VA2464_2020
+fosA6	98.1	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	KU254579	VA2464_2020
+fosA	97.14	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACZD01000244	VA2464_2020
+qnrB1	100.0	645/645	100.0	1..646	NA	NA..NA	Ciprofloxacin	DQ351241	VA2464_2020
+OqxA	99.23	1176/1176	100.0	1..1177	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA2464_2020
+OqxB	98.54	3153/3153	100.0	1..3154	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA2464_2020
+tet(D)	100.0	1185/1185	100.0	1..1186	NA	NA..NA	Doxycycline, Tetracycline	AF467077	VA2464_2020
+dfrA14	97.93	475/483	98.34	1..476	NA	NA..NA	Trimethoprim	DQ388123	VA2464_2020
+dfrA14	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	KF921535	VA2464_2020
+aph(6)-Id	100.0	831/831	100.0	1..832	NA	NA..NA	Streptomycin	CP000971	VA418_2022
+aadA2	100.0	792/792	100.0	1..793	NA	NA..NA	Spectinomycin, Streptomycin	JQ364967	VA418_2022
+armA	100.0	774/774	100.0	1..775	NA	NA..NA	Amikacin, Gentamicin, Tobramycin, Isepamicin, Netilmicin	AY220558	VA418_2022
+aac(6')-Ib-cr	100.0	600/600	100.0	1..601	NA	NA..NA	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	DQ303918	VA418_2022
+aph(3'')-Ib	99.88	804/804	100.0	1..805	NA	NA..NA	Streptomycin	AF321551	VA418_2022
+blaOXA-1	100.0	831/831	100.0	1..832	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510	VA418_2022
+blaSHV-158	99.54	861/861	99.54	1..862	NA	NA..NA	Unknown Beta-lactam	JX121125	VA418_2022
+blaTEM-1B	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016	VA418_2022
+blaNDM-7	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	JX262694	VA418_2022
+fosA5	97.86	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	EU195449	VA418_2022
+fosA	98.57	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACWO01000079	VA418_2022
+msr(E)	100.0	1476/1476	100.0	1..1477	NA	NA..NA	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	FR751518	VA418_2022
+mph(E)	100.0	885/885	100.0	1..886	NA	NA..NA	Erythromycin	DQ839391	VA418_2022
+OqxA	100.0	1176/1176	100.0	1..1177	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA418_2022
+OqxB	100.0	3153/3153	100.0	1..3154	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA418_2022
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA418_2022
+sul2	100.0	816/816	100.0	1..817	NA	NA..NA	Sulfamethoxazole	AY034138	VA418_2022
+tet(D)	100.0	1185/1185	100.0	1..1186	NA	NA..NA	Doxycycline, Tetracycline	AF467077	VA418_2022
+dfrA14	99.59	483/483	100.0	1..484	NA	NA..NA	Trimethoprim	DQ388123	VA418_2022
+dfrA12	100.0	498/498	100.0	1..499	NA	NA..NA	Trimethoprim	AM040708	VA418_2022
+dfrA14	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	KF921535	VA418_2022
+aac(6')-Il	100.0	459/459	100.0	1..460	NA	NA..NA	Amikacin, Tobramycin	U13880	VA692_2022
+aadA2	99.02	820/819	100.12	1..821	NA	NA..NA	Spectinomycin, Streptomycin	NC_010870	VA692_2022
+ant(2'')-Ia	100.0	534/534	100.0	1..535	NA	NA..NA	Gentamicin, Tobramycin	X04555	VA692_2022
+aadA1	92.3	746/792	93.94	48..794	NA	NA..NA	Spectinomycin, Streptomycin	JX185132	VA692_2022
+blaACT-16	99.56	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	AB737978	VA692_2022
+blaCTX-M-9	100.0	876/876	100.0	1..877	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AF174129	VA692_2022
+blaTEM-1B	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016	VA692_2022
+blaVIM-1	100.0	801/801	100.0	1..802	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	Y18050	VA692_2022
+blaNDM-7	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	JX262694	VA692_2022
+fosA	95.31	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	M85195	VA692_2022
+fosA	95.54	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	AEXB01000013	VA692_2022
+OqxB	85.98	3132/3153	97.18	1..3133	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA692_2022
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA692_2022
+dfrA1	93.67	444/474	93.67	1..445	NA	NA..NA	Trimethoprim	EU089668	VA692_2022
+aac(6')-Ib	100.0	606/606	100.0	1..607	NA	NA..NA	Amikacin, Tobramycin, Amikacin, Tobramycin, Kanamycin	M21682	VA1101_2021
+aac(6')-Ib3	100.0	558/555	100.54	1..559	NA	NA..NA	Amikacin, Tobramycin	X60321	VA1101_2021
+ant(3'')-Ia	84.57	847/972	86.42	1..848	NA	NA..NA	Streptomycin	X02340	VA1101_2021
+aac(6')-Ib-cr	88.67	600/600	91.0	1..601	NA	NA..NA	Ciprofloxacin, Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin	DQ303918	VA1101_2021
+blaACT-6	98.25	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	FJ237366	VA1101_2021
+blaACT-10	97.73	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	JN848330	VA1101_2021
+blaVIM-2	100.0	801/801	100.0	1..802	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	AF302086	VA1101_2021
+blaNDM-7	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	JX262694	VA1101_2021
+fosA	83.1	426/426	86.15	1..427	NA	NA..NA	Fosfomycin	M85195	VA1101_2021
+fosA	97.65	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	AEXB01000013	VA1101_2021
+OqxB	88.27	3144/3153	98.54	1..3145	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1101_2021
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA1101_2021
+aph(6)-Id	100.0	837/837	100.0	1..838	NA	NA..NA	Streptomycin	M28829	VA1565_2021
+aac(6')-Ib3	92.25	555/555	92.97	1..556	NA	NA..NA	Amikacin, Tobramycin	X60321	VA1565_2021
+aac(6')-Ib-cr	100.0	600/600	100.0	1..601	NA	NA..NA	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	DQ303918	VA1565_2021
+aph(3'')-Ib	99.0	804/804	99.88	1..805	NA	NA..NA	Streptomycin	AF321551	VA1565_2021
+aac(3)-IIa	100.0	861/861	100.0	1..862	NA	NA..NA	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin, Gentamicin, Tobramycin	CP023555	VA1565_2021
+blaOXA-1	100.0	831/831	100.0	1..832	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510	VA1565_2021
+blaSHV-40	80.72	696/861	80.84	8..704	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AF535128	VA1565_2021
+blaSHV-81	99.77	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AM176556	VA1565_2021
+blaSHV-110	92.8	800/861	92.92	1..801	NA	NA..NA	Unknown Beta-lactam	HQ877615	VA1565_2021
+blaTEM-1B	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016	VA1565_2021
+blaNDM-7	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	JX262694	VA1565_2021
+blaSHV-11	85.6	739/861	85.83	1..740	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	X98101	VA1565_2021
+fosA	98.81	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACWO01000079	VA1565_2021
+qnrB1	100.0	645/645	100.0	1..646	NA	NA..NA	Ciprofloxacin	DQ351241	VA1565_2021
+qnrB19	100.0	645/645	100.0	1..646	NA	NA..NA	Ciprofloxacin	EU432277	VA1565_2021
+OqxA	99.57	1176/1176	100.0	1..1177	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1565_2021
+OqxB	98.7	3153/3153	100.0	1..3154	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA1565_2021
+sul2	100.0	816/816	100.0	1..817	NA	NA..NA	Sulfamethoxazole	AY034138	VA1565_2021
+tet(A)	100.0	1200/1200	100.0	1..1201	NA	NA..NA	Doxycycline, Tetracycline	AJ517790	VA1565_2021
+dfrA14	98.55	483/483	99.38	1..484	NA	NA..NA	Trimethoprim	DQ388123	VA1565_2021
+dfrA14	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	KF921535	VA1565_2021
+aac(6')-Il	100.0	459/459	100.0	1..460	NA	NA..NA	Amikacin, Tobramycin	U13880	VA2067_2020
+aadA2	98.17	819/819	98.41	1..820	NA	NA..NA	Spectinomycin, Streptomycin	NC_010870	VA2067_2020
+aadA1	92.3	746/792	93.94	48..794	NA	NA..NA	Spectinomycin, Streptomycin	JX185132	VA2067_2020
+blaACT-16	99.56	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	AB737978	VA2067_2020
+blaCTX-M-9	100.0	876/876	100.0	1..877	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AF174129	VA2067_2020
+blaVIM-1	100.0	801/801	100.0	1..802	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	Y18050	VA2067_2020
+blaNDM-7	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	JX262694	VA2067_2020
+fosA	95.31	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	M85195	VA2067_2020
+fosA	95.54	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	AEXB01000013	VA2067_2020
+OqxB	85.76	3127/3153	96.89	1..3128	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA2067_2020
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA2067_2020
+dfrA1	92.83	440/474	92.83	1..441	NA	NA..NA	Trimethoprim	EU089668	VA2067_2020
+dfrA1	83.33	396/474	83.54	79..475	NA	NA..NA	Trimethoprim	AF203818	VA2067_2020
+dfrA16	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	AF174129	VA2067_2020
+aadA2	83.39	819/819	84.49	1..820	NA	NA..NA	Spectinomycin, Streptomycin	NC_010870	VA2588_2020
+aadA2	100.0	792/792	100.0	1..793	NA	NA..NA	Spectinomycin, Streptomycin	JQ364967	VA2588_2020
+armA	100.0	774/774	100.0	1..775	NA	NA..NA	Amikacin, Gentamicin, Tobramycin, Isepamicin, Netilmicin	AY220558	VA2588_2020
+blaACT-7	98.34	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	FJ237368	VA2588_2020
+blaACT-15	94.42	1146/1146	95.99	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	JX440356	VA2588_2020
+blaACT-16	98.43	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	AB737978	VA2588_2020
+blaTEM-1B	100.0	861/861	100.0	1..862	NA	NA..NA	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016	VA2588_2020
+blaNDM-1	100.0	813/813	100.0	1..814	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	FN396876	VA2588_2020
+blaCTX-M-3	100.0	876/876	100.0	1..877	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	Y10278	VA2588_2020
+msr(E)	100.0	1476/1476	100.0	1..1477	NA	NA..NA	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	FR751518	VA2588_2020
+mph(E)	100.0	885/885	100.0	1..886	NA	NA..NA	Erythromycin	DQ839391	VA2588_2020
+OqxB	87.88	3122/3153	99.02	1..3123	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA2588_2020
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA2588_2020
+dfrA12	100.0	498/498	100.0	1..499	NA	NA..NA	Trimethoprim	AM040708	VA2588_2020
+aac(6')-Il	100.0	459/459	100.0	1..460	NA	NA..NA	Amikacin, Tobramycin	U13880	VA585_2022
+aadA1	92.3	746/792	93.94	48..794	NA	NA..NA	Spectinomycin, Streptomycin	JX185132	VA585_2022
+blaKPC-2	100.0	882/882	100.0	1..883	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	AY034847	VA585_2022
+blaVIM-1	100.0	801/801	100.0	1..802	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	Y18050	VA585_2022
+blaSHV-190	99.88	861/861	100.0	1..862	NA	NA..NA	Unknown Beta-lactam	KP868753	VA585_2022
+fosA	98.1	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACWO01000079	VA585_2022
+fosA6	87.86	376/420	89.52	45..421	NA	NA..NA	Fosfomycin	KU254579	VA585_2022
+fosA	97.14	420/420	100.0	1..421	NA	NA..NA	Fosfomycin	ACZD01000244	VA585_2022
+OqxA	99.15	1176/1176	100.0	1..1177	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA585_2022
+OqxB	98.76	3153/3153	100.0	1..3154	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA585_2022
+sul1	99.88	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA585_2022
+dfrA1	99.58	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	EU089668	VA585_2022
+aac(6')-Il	100.0	459/459	100.0	1..460	NA	NA..NA	Amikacin, Tobramycin	U13880	VA61_2022
+aadA2	98.17	819/819	98.41	1..820	NA	NA..NA	Spectinomycin, Streptomycin	NC_010870	VA61_2022
+ant(2'')-Ia	100.0	534/534	100.0	1..535	NA	NA..NA	Gentamicin, Tobramycin	X04555	VA61_2022
+aadA1	85.98	681/792	85.98	112..793	NA	NA..NA	Spectinomycin, Streptomycin	JX185132	VA61_2022
+aadA16	99.65	846/846	100.0	1..847	NA	NA..NA	Spectinomycin, Streptomycin	EU675686	VA61_2022
+aac(6')-Ib-cr	100.0	600/600	100.0	1..601	NA	NA..NA	Ciprofloxacin, Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin	DQ303918	VA61_2022
+blaACT-7	99.48	1146/1146	100.0	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	FJ237368	VA61_2022
+blaACT-15	98.08	1146/1146	98.95	1..1147	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	JX440356	VA61_2022
+blaCTX-M-9	100.0	876/876	100.0	1..877	NA	NA..NA	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AF174129	VA61_2022
+blaKPC-2	100.0	882/882	100.0	1..883	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	AY034847	VA61_2022
+blaVIM-1	100.0	801/801	100.0	1..802	NA	NA..NA	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	Y18050	VA61_2022
+fosA	95.54	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	M85195	VA61_2022
+fosA	96.01	426/426	100.0	1..427	NA	NA..NA	Fosfomycin	AEXB01000013	VA61_2022
+qnrA1	99.85	657/657	100.0	1..658	NA	NA..NA	Ciprofloxacin	AY070235	VA61_2022
+qnrB6	100.0	645/645	100.0	1..646	NA	NA..NA	Ciprofloxacin	EF523819	VA61_2022
+OqxB	85.79	3135/3153	97.05	1..3136	NA	NA..NA	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913	VA61_2022
+ARR-3	100.0	453/453	100.0	1..454	NA	NA..NA	Rifampicin	JF806499	VA61_2022
+ARR-3	97.42	553/543	101.84	1..554	NA	NA..NA	Rifampicin	FM207631	VA61_2022
+sul1	100.0	840/840	100.0	1..841	NA	NA..NA	Sulfamethoxazole	U12338	VA61_2022
+dfrA27	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	FJ459817	VA61_2022
+dfrA1	86.29	474/474	86.29	1..475	NA	NA..NA	Trimethoprim	AJ238350	VA61_2022
+dfrA1	97.05	474/474	97.05	1..475	NA	NA..NA	Trimethoprim	AF203818	VA61_2022
+dfrA16	100.0	474/474	100.0	1..475	NA	NA..NA	Trimethoprim	AF174129	VA61_2022
