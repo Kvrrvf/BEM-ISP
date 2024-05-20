@@ -1,13 +1,11 @@
-# ISP samples folder
-
-samples
-
 # No code files
 
 *.fasta
 *.gfa
 *.gzip 
 
-# Symbolic links
+# Files, directories
 
 group_storage
+.snakemake
+hybracter_install_intermediate_files
